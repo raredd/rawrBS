@@ -9,5 +9,5 @@ On an Arch based distribution as root, run the following:
 
 ```
 curl -O https://raw.githubusercontent.com/raredd/rawrBS/master/rawrbs.sh
-sh rawrBS.sh
+sh rawrbs.sh
 ```
